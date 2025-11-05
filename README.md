@@ -1,6 +1,7 @@
 # Osem-Website-Testing-Project
 ##  Project Overview
 Comprehensive quality assurance testing project for Osem's official website, including competitive analysis against Unilever and Strauss brands.
+
 **Duration:** May 2024  
 **Team Size:** 3 QA Testers (Alpha Team)  
 **Role:** Manual QA Tester
@@ -54,6 +55,6 @@ Comprehensive quality assurance testing project for Osem's official website, inc
 **Eden Cohen**  
 📍 Givatayim, Israel  
 📧 Edencohen580@gmail.com  
-💼 [LinkedIn](your-linkedin-url)
+💼 [LinkedIn](https://www.linkedin.com/in/edencohen580/)
 
 ----------------------------------------------------------------------
